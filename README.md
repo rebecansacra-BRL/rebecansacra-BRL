@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there,🇧🇷 👷‍♀️🚢
+- 🔭 I’m currently working as MPD Engineer
+- 🌱 I’m currently learning Claude Code and Cursor
+- 📫 How to reach me: rebeca.nsacra@gmail.com
 
 <!--
 **rebecansacra-BRL/rebecansacra-BRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
