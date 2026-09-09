@@ -1,4 +1,4 @@
-## Hi there,🇧🇷 👷‍♀️🚢
+## Hi there, 🇧🇷 👷‍♀️🚢
 - 🔭 I’m currently working as MPD Engineer
 - 🌱 I’m currently learning Claude Code and Cursor
 - 📫 How to reach me: rebeca.nsacra@gmail.com
